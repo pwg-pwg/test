@@ -1,0 +1,103 @@
+# FIXED
+
+APP/display_vp.obj: ../APP/display_vp.c
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/registers.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Adc.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_BootVars.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Cla.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Comp.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_CpuTimers.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_DevEmu.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Dma.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_ECan.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_ECap.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_EPwm.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_EQep.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Gpio.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_HRCap.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_I2c.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Mcbsp.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_NmiIntrupt.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_PieCtrl.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_PieVect.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Spi.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Sci.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_SysCtrl.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Usb.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_XIntrupt.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/kernel/kernel.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/kernel/ports/OS_CPU.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/kernel/ports/os_config.h
+APP/display_vp.obj: ../APP/display_map.h
+APP/display_vp.obj: ../APP/display_driver.h
+APP/display_vp.obj: ../APP/display_config.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/KERNEL/ports/OS_CPU.h
+APP/display_vp.obj: ../APP/display_vp.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/Io.h
+APP/display_vp.obj: ../APP/app.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/app/Constant.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/module.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/batteryModule/batterymodule.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/busmodule/busmodule.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/invertermodule/invertermodule.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/linemodule/linemodule.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/outputmodule/outputmodule.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/protectionmodule/protectionmodule.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/library/library.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/PVModule/PVModule.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/app/EEprom.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/driver/eeprom/EepromDriver.h
+APP/display_vp.obj: Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/app/interrupt.h
+APP/display_vp.obj: ../APP/Interface_BMS.h
+APP/display_vp.obj: ../APP/EnergySaved.h
+
+../APP/display_vp.c: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/registers.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Adc.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_BootVars.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Cla.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Comp.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_CpuTimers.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_DevEmu.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Dma.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_ECan.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_ECap.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_EPwm.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_EQep.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Gpio.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_HRCap.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_I2c.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Mcbsp.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_NmiIntrupt.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_PieCtrl.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_PieVect.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Spi.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Sci.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_SysCtrl.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_Usb.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/F2806x_XIntrupt.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/kernel/kernel.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/kernel/ports/OS_CPU.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/kernel/ports/os_config.h: 
+../APP/display_map.h: 
+../APP/display_driver.h: 
+../APP/display_config.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/KERNEL/ports/OS_CPU.h: 
+../APP/display_vp.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/cpu/Io.h: 
+../APP/app.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/app/Constant.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/module.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/batteryModule/batterymodule.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/busmodule/busmodule.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/invertermodule/invertermodule.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/linemodule/linemodule.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/outputmodule/outputmodule.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/protectionmodule/protectionmodule.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/library/library.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/module/PVModule/PVModule.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/app/EEprom.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/driver/eeprom/EepromDriver.h: 
+Z:/02_VmwareShare/Project/01_HFInverter/01_IVEM/01_IVEM5048/03_IVEM5048Ver28062/01_MainCode/trunk/IVEM5048/app/interrupt.h: 
+../APP/Interface_BMS.h: 
+../APP/EnergySaved.h: 

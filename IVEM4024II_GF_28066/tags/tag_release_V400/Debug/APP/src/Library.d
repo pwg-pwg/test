@@ -1,0 +1,11 @@
+# FIXED
+
+APP/src/Library.obj: ../APP/src/Library.c
+APP/src/Library.obj: C:/Users/95490/Desktop/File/Code/IVEM4024/IVEM4024_28066_V400_1218/IVEM4024_28066_V305/IVEM4024/Kernel/Kernel.h
+APP/src/Library.obj: C:/Users/95490/Desktop/File/Code/IVEM4024/IVEM4024_28066_V400_1218/IVEM4024_28066_V305/IVEM4024/kernel/ports/OS_CPU.h
+APP/src/Library.obj: C:/Users/95490/Desktop/File/Code/IVEM4024/IVEM4024_28066_V400_1218/IVEM4024_28066_V305/IVEM4024/kernel/ports/os_config.h
+
+../APP/src/Library.c: 
+C:/Users/95490/Desktop/File/Code/IVEM4024/IVEM4024_28066_V400_1218/IVEM4024_28066_V305/IVEM4024/Kernel/Kernel.h: 
+C:/Users/95490/Desktop/File/Code/IVEM4024/IVEM4024_28066_V400_1218/IVEM4024_28066_V305/IVEM4024/kernel/ports/OS_CPU.h: 
+C:/Users/95490/Desktop/File/Code/IVEM4024/IVEM4024_28066_V400_1218/IVEM4024_28066_V305/IVEM4024/kernel/ports/os_config.h: 

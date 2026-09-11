@@ -1,0 +1,15 @@
+	
+	.sect "CsmPwlFile"
+	.word 0xFFFF	
+	.word 0xFFFF
+	.word 0xFFFF
+	.word 0xFFFF
+	.word 0xFFFF
+	.word 0xFFFF
+	.word 0xFFFF
+	.word 0xFFFF
+	
+	.sect ".flashflag"
+	.word 0x0225
+	.end
+	

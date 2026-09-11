@@ -1,0 +1,13 @@
+---- _PRG_key0 Matches (2 in 1 files) ----
+Example_Flash2806x_CsmKeys.asm line 18 : 
+
+          .global _PRG_key0
+          .global _PRG_key1
+          .global _PRG_key2
+          .global _PRG_key3
+Example_Flash2806x_CsmKeys.asm line 29 : 
+           .text                         
+_PRG_key0  .word 0xFFFF  ; PSWD bits 15-0
+_PRG_key1  .word 0xFFFF  ; PSWD bits 31-16
+_PRG_key2  .word 0xFFFF  ; PSWD bits 47-32
+_PRG_key3  .word 0xFFFF  ; PSWD bits 63-48
