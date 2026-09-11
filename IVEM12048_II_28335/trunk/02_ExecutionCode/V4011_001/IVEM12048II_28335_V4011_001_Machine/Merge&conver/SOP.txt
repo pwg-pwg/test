@@ -1,0 +1,7 @@
+1.将Bootloader.out复制到当前文件夹中，文件改名为boot.out；
+
+2.将APP.out复制到当前文件夹中，文件改名为app.out；
+
+3.双击Merge&conversion.bat，自动生成DSP.bin；
+
+4.根据需要修改bin文件名。

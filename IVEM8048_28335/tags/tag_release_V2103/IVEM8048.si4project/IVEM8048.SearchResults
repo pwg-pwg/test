@@ -1,0 +1,16 @@
+---- g_strParaExistInfo.BIT.uwSystemMainRlyOn Matches (15 in 4 files) ----
+{anonUNIParaExistInfo}::{anonBIT} in app.h (APP) : 		INT16U	uwSystemMainRlyOn:1;
+sEnergyInfoUpdate in InvLoadOP.C (APP) : 	if((g_uwLoadOnSts && g_strParaExistInfo.BIT.uwSystemMainRlyOn)
+swChkOPRly in Parallel.c (APP) : 		if(!g_strParaExistInfo.BIT.uwSystemMainRlyOn)
+swChkOverLoadStatus in Parallel.c (APP) : 	wParaExistMachine.BIT.uwSystemMainRlyOn = 1;
+swChkOverLoadStatus in Parallel.c (APP) : 		wParaExistMachine.BIT.uwSystemMainRlyOn = 1;
+swChkOverLoadStatus in Parallel.c (APP) : 		wParaExistMachine.BIT.uwSystemMainRlyOn = 0;
+swWorkModeSearch in Supervisor.c (APP) : 					else if(g_uwLoadOnSts && g_strParaExistInfo.BIT.uwSystemMainRlyOn)
+swWorkModeSearch in Supervisor.c (APP) : 					if((!g_uwLoadOnSts  || !g_strParaExistInfo.BIT.uwSystemMainRlyOn)
+swWorkModeSearch in Supervisor.c (APP) : 					&& g_uwLoadOnSts && g_strParaExistInfo.BIT.uwSystemMainRlyOn
+swWorkModeSearch in Supervisor.c (APP) : 					if(subGetParaBatUnderSts() || !g_uwLoadOnSts || !g_strParaExistInfo.BIT.uwSystemMainRlyOn)
+sLineMode in Supervisor.c (APP) : 			if(g_uwLoadOnSts && g_strParaExistInfo.BIT.uwSystemMainRlyOn)
+sLineMode in Supervisor.c (APP) : 			if((!g_uwLoadOnSts || !g_strParaExistInfo.BIT.uwSystemMainRlyOn)
+sLineMode in Supervisor.c (APP) : 				&&!g_fBatWeak && g_uwLoadOnSts && g_strParaExistInfo.BIT.uwSystemMainRlyOn
+sBypassMode in Supervisor.c (APP) : 			if(!g_uwLoadOnSts || !g_strParaExistInfo.BIT.uwSystemMainRlyOn)
+sBatteryMode in Supervisor.c (APP) : 			if(!g_uwLoadOnSts || !g_strParaExistInfo.BIT.uwSystemMainRlyOn

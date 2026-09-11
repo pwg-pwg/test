@@ -1,0 +1,25 @@
+---- cDCDCConvertPeriod Matches (24 in 4 files) ----
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 218 : #define cDCDCConvertPeriod          1829    //41K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 246 : #define cDCDCConvertPeriod          1667    //45K            Version 1:45K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 257 : #define cDCDCConvertPeriod          1786    //42K               
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 283 : #define cDCDCConvertPeriod          1923    //39K                Version 2 :39K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 293 : #define cDCDCConvertPeriod          1974    //38K                Version 2 :38K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 303 : #define cDCDCConvertPeriod          2027    //37K                Version 2 :37K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 313 : #define cDCDCConvertPeriod          2000    //37.5K                Version 2 :37.5K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 323 : #define cDCDCConvertPeriod          2011    //37.3K                Version 2 :37.3K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 333 : #define cDCDCConvertPeriod          2016    //37.2K                Version 2 :37.2K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 343 : #define cDCDCConvertPeriod          2273    //33K                Version 2 :33K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 353 : #define cDCDCConvertPeriod          2206    //34K                Version 2 :34K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 363 : #define cDCDCConvertPeriod          2143    //35K                Version 2 :35K
+Constant.h (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Include\App) line 390 : #define cDCDCConvertPeriod          0x04E2  //60K
+sInitEPWM in Initial.c (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) : 	EPwm6Regs.TBPRD = cDCDCConvertPeriod; // Period = 80K TBCLK counts
+sInitEPWM in Initial.c (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) : 	EPwm6Regs.CMPA.half.CMPA = cDCDCConvertPeriod;
+Interface.C (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) line 1746 : INT16U g_uwDCDCConvPrd = cDCDCConvertPeriod;	//37.2K
+sTestCommand in Interface.C (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) : 					// wTemp = (INT16S)((INT32S)g_uwDCDCConvPWM * cDCDCConvertPeriod / 100);
+sTestCommand in Interface.C (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) : 					// EPwm6Regs.CMPA.half.CMPA = cDCDCConvertPeriod - wTemp;
+sTestCommand in Interface.C (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) : 					gi_wDCDCConvPWMMax = (INT16S)((INT32S)g_uwDCDCConvPWM * cDCDCConvertPeriod / 100);
+sTestCommand in Interface.C (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) : 			else//cDCDCConvertPeriod
+sTestCommand in Interface.C (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) : 					// wTemp = (INT16S)((INT32S)390*10000/wTemp * cDCDCConvertPeriod / 10000);//Frequency*10
+sTestCommand in Interface.C (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) : 					g_uwDCDCConvPrd = (INT16S)((INT32S)390*10000/wTemp * cDCDCConvertPeriod / 10000);//Frequency*10
+MPPTInterrupt in Interrupt.c (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) : 			mDCDCConvPWM1 = cDCDCConvertPeriod - gi_wDCDCConvPWMValue;
+MPPTInterrupt in Interrupt.c (D:\ivem_code\IVEM12048\IVEM12048_Old_CCS12--V4009_250827\IVEM12048_Old_CCS12--V4009_250714\Source\App) : 			mDCDCConvPWM1 = cDCDCConvertPeriod - cDCDCConvertDutyLimit1;

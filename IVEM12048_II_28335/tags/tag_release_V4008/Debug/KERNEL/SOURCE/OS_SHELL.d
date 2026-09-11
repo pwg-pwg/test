@@ -1,0 +1,15 @@
+# FIXED
+
+KERNEL/SOURCE/OS_SHELL.obj: ../KERNEL/SOURCE/OS_SHELL.c
+KERNEL/SOURCE/OS_SHELL.obj: C:/Users/80783/Desktop/IVEM12048/IVEM12048_Old_CCS12/Kernel/kernel.h
+KERNEL/SOURCE/OS_SHELL.obj: C:/Users/80783/Desktop/IVEM12048/IVEM12048_Old_CCS12/kernel/ports/OS_CPU.h
+KERNEL/SOURCE/OS_SHELL.obj: C:/Users/80783/Desktop/IVEM12048/IVEM12048_Old_CCS12/kernel/ports/os_config.h
+
+../KERNEL/SOURCE/OS_SHELL.c:
+
+C:/Users/80783/Desktop/IVEM12048/IVEM12048_Old_CCS12/Kernel/kernel.h:
+
+C:/Users/80783/Desktop/IVEM12048/IVEM12048_Old_CCS12/kernel/ports/OS_CPU.h:
+
+C:/Users/80783/Desktop/IVEM12048/IVEM12048_Old_CCS12/kernel/ports/os_config.h:
+
