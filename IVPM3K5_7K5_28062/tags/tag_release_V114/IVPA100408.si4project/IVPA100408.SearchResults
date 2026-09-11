@@ -1,0 +1,14 @@
+---- swTest Matches (13 in 5 files) ----
+app.h (APP) line 189 : extern INT16S	swTestModeSampleAvgCal(void);
+sBusBatProtectTask in BusBatProt.C (APP) : 			sSetTestModeAvgSample(swTestModeSampleAvgCal());
+Interface.C (APP) line 1472 : INT16S swTest = 0;
+sQ1Command in Interface.C (APP) : 	wTemp1 = swTest;
+Interrupt.c (APP) line 630 : extern INT16S swTest;
+INVInterrupt in Interrupt.c (APP) : 		if(++swTest > 10)
+INVInterrupt in Interrupt.c (APP) : 			swTest = 0;
+INVInterrupt in Interrupt.c (APP) : 		if(++swTest > 10)
+INVInterrupt in Interrupt.c (APP) : 			swTest = 0;
+Interrupt.c (APP) line 2047 : INT16S	swTestModeSampleAvgCal(void)
+Supervisor.c (APP) line 60 : INT16U swTestTaskProc(void);
+Supervisor.c (APP) line 1623 : 			if(swTestTaskProc() == true)
+Supervisor.c (APP) line 2687 : INT16U swTestTaskProc(void)	// 20ms

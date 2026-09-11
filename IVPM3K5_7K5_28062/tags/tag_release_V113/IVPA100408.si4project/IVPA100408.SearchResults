@@ -1,0 +1,13 @@
+---- bPowerLimitflag Matches (12 in 4 files) ----
+DisplayBuzz.c (APP) line 85 : extern INT8U bPowerLimitflag ;
+sBuzzerControl in DisplayBuzz.c (APP) : 		else if(bPowerLimitflag)        
+display_vp.c (APP) line 1185 : extern INT8U bPowerLimitflag;
+sbDisplayWarning in display_vp.c (APP) : 		if (bPowerLimitflag) 
+Interface.C (APP) line 161 : extern INT8U bPowerLimitflag ;
+sQ2Command in Interface.C (APP) : 	sbNumToXX(bPowerLimitflag,pDataBuf);
+sQPIWSCommand in Interface.C (APP) : 	if(bPowerLimitflag)										//Battery de-rating
+InvLoadOP.C (APP) line 65 : INT8U bPowerLimitflag = 0;
+PowerLimitUpdate in InvLoadOP.C (APP) : 			bPowerLimitflag = 1;
+PowerLimitUpdate in InvLoadOP.C (APP) : 			bPowerLimitflag = 0;
+PowerLimitUpdate in InvLoadOP.C (APP) : 		bPowerLimitflag = 0;
+PowerLimitUpdate in InvLoadOP.C (APP) : 		bPowerLimitflag = 0;

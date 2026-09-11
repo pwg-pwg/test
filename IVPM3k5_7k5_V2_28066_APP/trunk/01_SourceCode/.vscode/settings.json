@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "Interface_BMS.C": "cpp",
+        "InvCntModule.C": "cpp",
+        "Interface.C": "cpp",
+        "BatteryModule.C": "cpp",
+        "BusBatProt.C": "cpp",
+        "InvLoadOP.C": "cpp",
+        "OS_EVENT.C": "cpp",
+        "Library.C": "cpp"
+    }
+}

@@ -1,9 +1,0 @@
-----------------------------  IVEM8048.pjt - Debug  ----------------------------
-[InvCntModule.C] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -g -q -s -as -fr"Z:/vm share/IVEM8048_28335_V2105.0_20240120/IVEM8048_28335_V2104.3_1107/IVEM8048/Debug" -fs"Z:/vm share/IVEM8048_28335_V2105.0_20240120/IVEM8048_28335_V2104.3_1107/IVEM8048/ASM" -i"Z:/vm share/IVEM8048_28335_V2105.0_20240120/IVEM8048_28335_V2104.3_1107/IVEM8048/" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"../../Debug.lkf" "InvCntModule.C"
-
-[Linking...] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -@"Debug.lkf"
-<Linking>
-warning: entry-point symbol other than "_c_int00" specified:  "code_start"
-
-Build Complete,
-  0 Errors, 1 Warnings, 0 Remarks.

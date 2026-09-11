@@ -1,0 +1,17 @@
+# FIXED
+
+APP/Eeprom.obj: ../APP/Eeprom.c
+APP/Eeprom.obj: C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/kernel/kernel.h
+APP/Eeprom.obj: C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/kernel/ports/OS_CPU.h
+APP/Eeprom.obj: C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/kernel/ports/os_config.h
+APP/Eeprom.obj: C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/app/app.h
+APP/Eeprom.obj: C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/app/constant.h
+APP/Eeprom.obj: C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/app/eeprom.h
+
+../APP/Eeprom.c: 
+C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/kernel/kernel.h: 
+C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/kernel/ports/OS_CPU.h: 
+C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/kernel/ports/os_config.h: 
+C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/app/app.h: 
+C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/app/constant.h: 
+C:/Users/THINKPAD/Desktop/V118-001/FLS-GPINV-IVPA10K1011_20240408/app/eeprom.h: 

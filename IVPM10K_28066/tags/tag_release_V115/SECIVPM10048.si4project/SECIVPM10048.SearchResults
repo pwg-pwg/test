@@ -1,0 +1,9 @@
+---- LiHardProtectCNT Matches (8 in 1 files) ----
+Interrupt.c (APP) line 350 : INT16U LiHardProtectCNT =0;
+INVInterrupt in Interrupt.c (APP) : 		if(LiHardProtectCNT>=3)//纭欢瑙﹀彂淇濇姢 
+MPPTInterrupt in Interrupt.c (APP) : 		if(LiHardProtectCNT>=3)//纭欢瑙﹀彂淇濇姢 
+HardProtectChk in Interrupt.c (APP) : //		LiHardProtectCNT++;
+HardProtectChk in Interrupt.c (APP) : 		if(++LiHardProtectCNT>4)
+HardProtectChk in Interrupt.c (APP) : 			LiHardProtectCNT =4;
+HardProtectChk in Interrupt.c (APP) : 		if(LiHardProtectCNT > 0)
+HardProtectChk in Interrupt.c (APP) : 			LiHardProtectCNT--;

@@ -1,9 +1,0 @@
-----------------------------  IVEM8048.pjt - Debug  ----------------------------
-[Supervisor.c] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -g -q -s -as -fr"Z:/CCS_Code/IVEM8048 V1/IVEM8048_II_28335-V0012/IVEM8048_II_28335-V0012/Debug" -fs"Z:/CCS_Code/IVEM8048 V1/IVEM8048_II_28335-V0012/IVEM8048_II_28335-V0012/ASM" -i"Z:/CCS_Code/IVEM8048 V1/IVEM8048_II_28335-V0012/IVEM8048_II_28335-V0012/" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"../Debug.lkf" "Supervisor.c"
-
-[Linking...] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -@"Debug.lkf"
-<Linking>
-warning: entry-point symbol other than "_c_int00" specified:  "code_start"
-
-Build Complete,
-  0 Errors, 1 Warnings, 0 Remarks.

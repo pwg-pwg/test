@@ -1,0 +1,11 @@
+# FIXED
+
+KERNEL/SOURCE/OS_SHELL.obj: ../KERNEL/SOURCE/OS_SHELL.c
+KERNEL/SOURCE/OS_SHELL.obj: C:/Users/CM/Desktop/code/IVPM/FLS-GPINV-IVPA10K1011_20230911/Kernel/kernel.h
+KERNEL/SOURCE/OS_SHELL.obj: C:/Users/CM/Desktop/code/IVPM/FLS-GPINV-IVPA10K1011_20230911/kernel/ports/OS_CPU.h
+KERNEL/SOURCE/OS_SHELL.obj: C:/Users/CM/Desktop/code/IVPM/FLS-GPINV-IVPA10K1011_20230911/kernel/ports/os_config.h
+
+../KERNEL/SOURCE/OS_SHELL.c: 
+C:/Users/CM/Desktop/code/IVPM/FLS-GPINV-IVPA10K1011_20230911/Kernel/kernel.h: 
+C:/Users/CM/Desktop/code/IVPM/FLS-GPINV-IVPA10K1011_20230911/kernel/ports/OS_CPU.h: 
+C:/Users/CM/Desktop/code/IVPM/FLS-GPINV-IVPA10K1011_20230911/kernel/ports/os_config.h: 

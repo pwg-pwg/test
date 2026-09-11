@@ -1,0 +1,127 @@
+TMS320C2000 Assembler PC v6.1.0 Fri Feb 14 09:23:41 2020
+
+Tools Copyright (c) 1996-2012 Texas Instruments Incorporated
+../F2806x_common/source/F2806x_CodeStartBranch.asm                   PAGE    1
+
+       1              ;// TI File $Revision: 
+       2              ;// Checkin $Date: 
+       3              ;//###########################################################################
+       4              ;//
+       5              ;// FILE:  F2806x_CodeStartBranch.asm   
+       6              ;//
+       7              ;// TITLE: Branch for redirecting code execution after boot. 
+       8              ;//
+       9              ;// For these examples, code_start is the first code that is executed after
+      10              ;// exiting the boot ROM code. 
+      11              ;//
+      12              ;// The codestart section in the linker cmd file is used to physically place
+      13              ;// this code at the correct memory location.  This section should be placed 
+      14              ;// at the location the BOOT ROM will re-direct the code to.  For example, 
+      15              ;// for boot to FLASH this code will be located at 0x3f7ff6. 
+      16              ;//
+      17              ;// In addition, the example F2806x projects are setup such that the codegen
+      18              ;// entry point is also set to the code_start label.  This is done by linker 
+      19              ;// option -e in the project build options.  When the debugger loads the code,
+      20              ;// it will automatically set the PC to the "entry point" address indicated by
+      21              ;// the -e linker option.  In this case the debugger is simply assigning the PC, 
+      22              ;// it is not the same as a full reset of the device. 
+      23              ;// 
+      24              ;// The compiler may warn that the entry point for the project is other then
+      25              ;//  _c_init00.  _c_init00 is the C environment setup and is run before 
+      26              ;// main() is entered. The code_start code will re-direct the execution 
+      27              ;// to _c_init00 and thus there is no worry and this warning can be ignored. 
+      28              ;// 
+      29              ;//###########################################################################
+      30              ;// $TI Release: 
+      31              ;// $Release Date: 
+      32              ;//###########################################################################
+      33              
+      34              
+      35              
+      36              ***********************************************************************
+      37              
+      38        0001  WD_DISABLE      .set    1               ;set to 1 to disable WD, else set to 0
+      39                      .ref _GpioDataRegs
+      40                  .ref _c_int00
+      41                  .global code_start
+      42                      .global L1
+      43              
+      44              ***********************************************************************
+      45              * Function: codestart section
+      46              *
+      47              * Description: Branch to code starting point
+      48              ***********************************************************************
+      49              
+      50 00000000           .sect "codestart" ;每次开机都是从bootloader开始运行
+      51 00000000       code_start:
+      52              ;    LB _c_int00         ;Branch to start of boot.asm in RTS library
+      53 00000000 0040'         LB      BootLoader
+         00000001 0000 
+      54              ;end codestart section
+TMS320C2000 Assembler PC v6.1.0 Fri Feb 14 09:23:41 2020
+
+Tools Copyright (c) 1996-2012 Texas Instruments Incorporated
+../F2806x_common/source/F2806x_CodeStartBranch.asm                   PAGE    2
+
+      55              
+      56              ***********************************************************************
+      57              * Function: wd_disable
+      58              *
+      59              * Description: Disables the watchdog timer
+      60              ***********************************************************************
+      61                  .if WD_DISABLE == 1
+      62              
+      63 00000000           .text
+      64              ;wd_disable:
+      65              ;    SETC OBJMODE        ;Set OBJMODE for 28x object code
+      66              ;    EALLOW              ;Enable EALLOW protected register access
+      67              ;    MOVZ DP, #7029h>>6  ;Set data page for WDCR register
+      68              ;    MOV @7029h, #0068h  ;Set WDDIS bit in WDCR to disable WD
+      69              ;    EDIS                ;Disable EALLOW protected register access
+      70              ;   LB _c_int00         ;Branch to start of boot.asm in RTS library
+      71 00000000       BootLoader:                     
+      72 00000000 3B10                  SETC    INTM            
+      73 00000001 8F3F                  MOVL XAR4,#0x3F5FFE     ;读取标志位，如果标志位为0xAAAA则表示有主程序
+         00000002 5FFE 
+      74 00000003 1BC4                  CMP      *+XAR4[0],#-21846
+         00000004 AAAA 
+      75 00000005 ED04                  SBF      L1,NEQ         ;如果没有主程序跳转到Bootloader自己的main函数
+      76 00000006 76FF                  MOVL  XAR7,#0x3F3000    ;如果有主程序跳转到主程序开始地址，然后进入主程序main函数 0x3e8F00-> 
+         00000007 3000 
+      77 00000008 7620                  LB       *XAR7
+      78 00000009 0040+ L1:    LB L2
+         0000000a 0000 
+      79              
+      80 00000000               .sect "cnt_00"
+      81 00000000 6F01  L2:    LB _clearram         ;Branch to start of boot.asm in RTS library
+      82              
+      83                  .endif
+      84              
+      85              ;end wd_disable
+      86              
+      87              
+      88 00000001       _clearram:
+      89                      ;diable watch dog
+      90 00000001 8D00      movl        XAR0,#0x7029
+         00000002 7029 
+      91 00000003 7622          EALLOW
+      92 00000004 28C0          mov     *XAR0,#0x0068
+         00000005 0068 
+      93 00000006 761A          EDIS                ;Disable EALLOW protected register access
+      94 00000007 761F!    MOVW      DP,#_GpioDataRegs+6   ; [CPU_U] 
+         00000008 0000 
+      95 00000009 1A06!         OR        @_GpioDataRegs+6,#0x1000 ; [CPU_] |143| 
+         0000000a 1000 
+      96 0000000b 0040!         LB      _c_int00
+         0000000c 0000 
+      97              
+      98              
+      99              
+     100                      .end
+TMS320C2000 Assembler PC v6.1.0 Fri Feb 14 09:23:41 2020
+
+Tools Copyright (c) 1996-2012 Texas Instruments Incorporated
+../F2806x_common/source/F2806x_CodeStartBranch.asm                   PAGE    3
+
+
+No Assembly Errors, No Assembly Warnings

@@ -1,7 +1,0 @@
-----------------------------  IVEM8048.pjt - Debug  ----------------------------
-[Linking...] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -@"Debug.lkf"
-<Linking>
-warning: entry-point symbol other than "_c_int00" specified:  "code_start"
-
-Build Complete,
-  0 Errors, 1 Warnings, 0 Remarks.

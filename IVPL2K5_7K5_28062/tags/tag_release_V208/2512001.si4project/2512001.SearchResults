@@ -1,0 +1,32 @@
+---- sSetFaultCode Matches (28 in 9 files) ----
+sBusBatProtectTask in BusBatProt.C (APP) : 				sSetFaultCode(cBatteryOverVolt);
+sBusBatProtectTask in BusBatProt.C (APP) : 					sSetFaultCode(0);    
+sBusBatProtectTask in BusBatProt.C (APP) : 				sSetFaultCode(cOverTemperature);
+sBusBatProtectTask in BusBatProt.C (APP) : 				sSetFaultCode(cNTCDisConnectFault);	
+sFanLockDetect in BusBatProt.C (APP) : 			sSetFaultCode(cFanLock);			
+sBatOpenChk in BusBatProt.C (APP) : 			sSetFaultCode(cBatOpenFault);
+sBatOpenChk in BusBatProt.C (APP) : 					sSetFaultCode(0);
+sBusUnderChk in BusModule.c (MODULE\BusModule) : 		sSetFaultCode(cBusUnder);
+sBusOverChk in BusModule.c (MODULE\BusModule) : 		sSetFaultCode(cBusOver);
+Grid.c (APP) line 171 : void sSetFaultCode(INT16U wFaultCodeTemp)
+sSciTask in Interface.C (APP) : 						sSetFaultCode(cBootFault);
+interrupt.h (APP) line 559 : extern void 	sSetFaultCode(INT16U wFaultCodeTemp);
+sInvLoadOPTask in InvLoadOP.C (APP) : 				sSetFaultCode(cInvShort);
+sInvLoadOPTask in InvLoadOP.C (APP) : 				sSetFaultCode(cInvVoltOver);
+sInvLoadOPTask in InvLoadOP.C (APP) : 		    	sSetFaultCode(cInvVoltUnder);             
+sOverLoadProtect in InvLoadOP.C (APP) : 			sSetFaultCode(cOverLoadFault);
+sAvrErrChk in LineModule.C (MODULE\LineModule) : 			sSetFaultCode(cAvrFail);             
+linemodule.h (MODULE\LineModule) line 79 : extern	void 			sSetFaultCode(INT16U wFaultCodeTemp);
+sModeSwitchTask in Supervisor.c (APP) : 							sSetFaultCode(0);
+sModeSwitchTask in Supervisor.c (APP) : 							sSetFaultCode(0);				
+sModeSwitchTask in Supervisor.c (APP) : 							sSetFaultCode(0);
+sModeSwitchTask in Supervisor.c (APP) : 									sSetFaultCode(0);
+sModeSwitchTask in Supervisor.c (APP) : 									sSetFaultCode(0);
+sBatteryMode in Supervisor.c (APP) : 					sSetFaultCode(cInvSoftTimeOut);
+sLineMode in Supervisor.c (APP) : 					sSetFaultCode(cOverLoadFault);
+sFaultMode in Supervisor.c (APP) : 					sSetFaultCode(wFaultCodeTemp);
+swCTBiasChk in Supervisor.c (APP) : 					sSetFaultCode(cCurrSensorFail);
+sbOutputVoltChk in Supervisor.c (APP) : 					sSetFaultCode(cInvVoltOver);
+---- sSetFaultCode Search Errors Encountered (1) ----
+The following 1 files could not be processed:
+F:\IVPL2K5_7K5\V208\FLS-GPINV204\2512001.si4project\Backup\Supervisor(5669).c : File could not be opened.
