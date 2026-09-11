@@ -1,0 +1,13 @@
+----------------------------  IVEM8048.pjt - Debug  ----------------------------
+[ModBus.c] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -g -q -s -as -fr"Z:/CCS_Code/IVEM8048 All-in-one machine/IVEM8048_28335_V2200_20241209_All-in-one/IVEM8048_28335_V2200_20240730_All-in-one/IVEM8048_V22200/Debug" -fs"Z:/CCS_Code/IVEM8048 All-in-one machine/IVEM8048_28335_V2200_20241209_All-in-one/IVEM8048_28335_V2200_20240730_All-in-one/IVEM8048_V22200/ASM" -i"Z:/CCS_Code/IVEM8048 All-in-one machine/IVEM8048_28335_V2200_20241209_All-in-one/IVEM8048_28335_V2200_20240730_All-in-one/IVEM8048_V22200/" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"../Debug.lkf" "ModBus.c"
+
+[queue.c] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -g -q -s -as -fr"Z:/CCS_Code/IVEM8048 All-in-one machine/IVEM8048_28335_V2200_20241209_All-in-one/IVEM8048_28335_V2200_20240730_All-in-one/IVEM8048_V22200/Debug" -fs"Z:/CCS_Code/IVEM8048 All-in-one machine/IVEM8048_28335_V2200_20241209_All-in-one/IVEM8048_28335_V2200_20240730_All-in-one/IVEM8048_V22200/ASM" -i"Z:/CCS_Code/IVEM8048 All-in-one machine/IVEM8048_28335_V2200_20241209_All-in-one/IVEM8048_28335_V2200_20240730_All-in-one/IVEM8048_V22200/" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"../../../Debug.lkf" "queue.c"
+
+[invertermodule.c] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -g -q -s -as -fr"Z:/CCS_Code/IVEM8048 All-in-one machine/IVEM8048_28335_V2200_20241209_All-in-one/IVEM8048_28335_V2200_20240730_All-in-one/IVEM8048_V22200/Debug" -fs"Z:/CCS_Code/IVEM8048 All-in-one machine/IVEM8048_28335_V2200_20241209_All-in-one/IVEM8048_28335_V2200_20240730_All-in-one/IVEM8048_V22200/ASM" -i"Z:/CCS_Code/IVEM8048 All-in-one machine/IVEM8048_28335_V2200_20241209_All-in-one/IVEM8048_28335_V2200_20240730_All-in-one/IVEM8048_V22200/" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"../../Debug.lkf" "invertermodule.c"
+
+[Linking...] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -@"Debug.lkf"
+<Linking>
+warning: entry-point symbol other than "_c_int00" specified:  "code_start"
+
+Build Complete,
+  0 Errors, 1 Warnings, 0 Remarks.
