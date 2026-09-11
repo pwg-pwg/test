@@ -1,0 +1,2 @@
+HexMerge_28374.exe ..\Release\BOOT_HEX\IVPM15048_F2837x_IAP.hex ..\Release\IVPMP1G2_F2837x_APP_12K.hex ..\Release\IVPMP1G2_F2837x_BOOT_APP.hex
+

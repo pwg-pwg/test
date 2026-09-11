@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "Interface.C": "cpp",
+        "BatteryModule.C": "cpp",
+        "Interface_BMS.C": "cpp",
+        "BusBatProt.C": "cpp",
+        "InvCntModule.C": "cpp",
+        "InvLoadOP.C": "cpp",
+        "LineModule.C": "cpp",
+        "OS_EVENT.C": "cpp",
+        "Library.C": "cpp",
+        "Chgmodule.C": "cpp",
+        "mpptsciprocess.h": "c",
+        "LoadModule.C": "cpp",
+        "io.h": "c",
+        "registers.h": "c",
+        "module.h": "c",
+        "linemodule.h": "c",
+        "protectionmodule.h": "c",
+        "interface_bms.h": "c",
+        "app.h": "c",
+        "constant.h": "c",
+        "interrupt.h": "c",
+        "kernel.h": "c",
+        "Kernel.H": "cpp",
+        "modbus.h": "c",
+        "invertermodule.h": "c"
+    }
+}

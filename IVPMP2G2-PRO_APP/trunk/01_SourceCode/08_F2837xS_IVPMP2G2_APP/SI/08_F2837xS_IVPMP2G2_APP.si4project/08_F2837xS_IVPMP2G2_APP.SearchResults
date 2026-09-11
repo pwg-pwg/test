@@ -1,0 +1,6 @@
+---- wSmartLoadL2Curr Matches (5 in 1 files) ----
+
+LoadModule.c (C:\Code\NewParaCode\08_F2837xS_IVPMP2G2_APP\Source\MODULE\LoadModule) line 79 : INT16U  wSmartLoadL2Curr;
+sSmartLoadL2CurrFilter in LoadModule.c (C:\Code\NewParaCode\08_F2837xS_IVPMP2G2_APP\Source\MODULE\LoadModule) :     if(abs(wSmartLoadL2CurrNew - wSmartLoadL2Curr) > wFilter)
+sSmartLoadL2CurrFilter in LoadModule.c (C:\Code\NewParaCode\08_F2837xS_IVPMP2G2_APP\Source\MODULE\LoadModule) :         wSmartLoadL2Curr = wSmartLoadL2CurrNew;
+sSmartLoadL2CurrFilter in LoadModule.c (C:\Code\NewParaCode\08_F2837xS_IVPMP2G2_APP\Source\MODULE\LoadModule) :         wSmartLoadL2Curr = (wSmartLoadL2CurrNew + wSmartLoadL2Curr) >> 1;

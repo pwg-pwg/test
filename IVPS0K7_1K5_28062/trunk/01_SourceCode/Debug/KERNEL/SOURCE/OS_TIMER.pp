@@ -1,0 +1,15 @@
+# FIXED
+
+KERNEL/SOURCE/OS_TIMER.obj: ../KERNEL/SOURCE/OS_TIMER.c
+KERNEL/SOURCE/OS_TIMER.obj: Z:/VMVare\ Map\ File/IVPS1512/IVPS1512/Kernel/Kernel.h
+KERNEL/SOURCE/OS_TIMER.obj: Z:/VMVare\ Map\ File/IVPS1512/IVPS1512/kernel/ports/OS_CPU.h
+KERNEL/SOURCE/OS_TIMER.obj: Z:/VMVare\ Map\ File/IVPS1512/IVPS1512/kernel/ports/os_config.h
+KERNEL/SOURCE/OS_TIMER.obj: Z:/VMVare\ Map\ File/IVPS1512/IVPS1512/Kernel/source/OS_HEAD.h
+KERNEL/SOURCE/OS_TIMER.obj: Z:/VMVare\ Map\ File/IVPS1512/IVPS1512/kernel/ports/OS_CPU.h
+
+../KERNEL/SOURCE/OS_TIMER.c: 
+Z:/VMVare\ Map\ File/IVPS1512/IVPS1512/Kernel/Kernel.h: 
+Z:/VMVare\ Map\ File/IVPS1512/IVPS1512/kernel/ports/OS_CPU.h: 
+Z:/VMVare\ Map\ File/IVPS1512/IVPS1512/kernel/ports/os_config.h: 
+Z:/VMVare\ Map\ File/IVPS1512/IVPS1512/Kernel/source/OS_HEAD.h: 
+Z:/VMVare\ Map\ File/IVPS1512/IVPS1512/kernel/ports/OS_CPU.h: 

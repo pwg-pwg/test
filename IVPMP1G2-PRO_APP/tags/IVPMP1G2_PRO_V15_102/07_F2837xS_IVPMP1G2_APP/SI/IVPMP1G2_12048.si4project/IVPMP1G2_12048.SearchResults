@@ -1,0 +1,6 @@
+---- sLineWaveChk Matches (5 in 1 files) ----
+Interrupts.c (E:\Code\IVPM15048\12K\07_F2837xS_IVPMP1G2_APP\Source\APP) line 43 : #pragma CODE_SECTION(sLineWaveChk,".TI.ramfunc");
+Interrupts.c (E:\Code\IVPM15048\12K\07_F2837xS_IVPMP1G2_APP\Source\APP) line 716 : void sLineWaveChk(INT16U wCmpPoint);
+INVInterrupt in Interrupts.c (E:\Code\IVPM15048\12K\07_F2837xS_IVPMP1G2_APP\Source\APP) :     sLineWaveChk(wCtrlSinpointer);
+Interrupts.c (E:\Code\IVPM15048\12K\07_F2837xS_IVPMP1G2_APP\Source\APP) line 4023 : //void sLineWaveChk(INT16U wCmpPoint)
+Interrupts.c (E:\Code\IVPM15048\12K\07_F2837xS_IVPMP1G2_APP\Source\APP) line 4147 : void sLineWaveChk(INT16U wCmpPoint)

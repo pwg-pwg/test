@@ -1,0 +1,35 @@
+---- g_wAcChgCurrMax Matches (34 in 7 files) ----
+app.h (APP) line 293 : extern INT16U g_wAcChgCurrMax;
+BusBatProt.C (APP) line 47 : INT16U	g_wAcChgCurrMax;
+sProcConfigMode in display_vp.c (APP) : 						if(g_wAcChgCurrMax == cIdc80A)
+sProcConfigMode in display_vp.c (APP) : 						else if(g_wAcChgCurrMax == cIdc60A)
+sProcConfigMode in display_vp.c (APP) : 						else if(g_wAcChgCurrMax == cIdc50A)
+sProcConfigMode in display_vp.c (APP) : 						else if(g_wAcChgCurrMax == cIdc18A)
+sProcConfigMode in display_vp.c (APP) : 						else if(g_wAcChgCurrMax == cIdc12A)
+sCalMaxCurAccept in Grid.c (APP) : 	if(g_wAcChgCurrMax == cIdc80A)
+sCalMaxCurAccept in Grid.c (APP) : 	else if(g_wAcChgCurrMax == cIdc60A)
+sCalMaxCurAccept in Grid.c (APP) : 	else if(g_wAcChgCurrMax == cIdc50A)
+sCalMaxCurAccept in Grid.c (APP) : 	else if(g_wAcChgCurrMax == cIdc18A)//Chandler 20201106 for 1512
+sCalMaxCurAccept in Grid.c (APP) : 	else if(g_wAcChgCurrMax == cIdc12A)//Chandler 20201106 for 1512
+sEEpromDataRangeChk in IICEepromIOCard.c (APP) : 	 if(g_wAcChgCurrMax == cIdc18A)
+sEEpromDataRangeChk in IICEepromIOCard.c (APP) : 	if(g_wAcChgCurrMax == cIdc80A)
+sEEpromDataRangeChk in IICEepromIOCard.c (APP) : 	else if(g_wAcChgCurrMax == cIdc60A)
+sEEpromDataRangeChk in IICEepromIOCard.c (APP) : 	else if(g_wAcChgCurrMax == cIdc50A)
+sUpsParaInit in Initial.c (APP) : 		g_wAcChgCurrMax = cIdc18A;		// 1512:18A
+sUpsParaInit in Initial.c (APP) : 		g_wAcChgCurrMax = cIdc12A;//cIdc15A;		// 0712:18A
+sUpsParaInit in Initial.c (APP) : 			g_wAcChgCurrMax = cIdc40A;		// 2012:40A
+sUpsParaInit in Initial.c (APP) : 			g_wAcChgCurrMax = cIdc40A;		// 2024:40A
+sUpsParaInit in Initial.c (APP) : 			g_wAcChgCurrMax = cIdc40A;		// 2512:40A
+sUpsParaInit in Initial.c (APP) : 			g_wAcChgCurrMax = cIdc40A;		// 2524:40A
+sUpsParaInit in Initial.c (APP) : 			g_wAcChgCurrMax = cIdc40A;		// 3548:40A
+sUpsParaInit in Initial.c (APP) : 			g_wAcChgCurrMax = cIdc40A;		// 3524:40A
+sUpsParaInit in Initial.c (APP) : 		g_wAcChgCurrMax = cIdc40A;			// 4048:40A
+sUpsParaInit in Initial.c (APP) : 			g_wAcChgCurrMax = cIdc50A;		// 5048:50A
+sUpsParaInit in Initial.c (APP) : 			g_wAcChgCurrMax = cIdc50A;		// 5024:50A
+sUpsParaInit in Initial.c (APP) : 		g_wAcChgCurrMax = cIdc60A;			// 7548:60A
+sUpsParaInit in Initial.c (APP) : 		g_wAcChgCurrMax = cIdc80A;			// 10048:80A
+swWriteEESetting in ModBus.c (APP) : 			if(g_wAcChgCurrMax == cIdc80A)
+swWriteEESetting in ModBus.c (APP) : 			else if(g_wAcChgCurrMax == cIdc60A)
+swWriteEESetting in ModBus.c (APP) : 			else if(g_wAcChgCurrMax == cIdc50A)
+swWriteEESetting in ModBus.c (APP) : 			else if(g_wAcChgCurrMax == cIdc18A)
+swWriteEESetting in ModBus.c (APP) : 			else if(g_wAcChgCurrMax == cIdc12A)

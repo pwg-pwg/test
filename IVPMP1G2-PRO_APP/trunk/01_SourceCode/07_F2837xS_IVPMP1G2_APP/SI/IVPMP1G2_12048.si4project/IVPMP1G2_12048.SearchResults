@@ -1,0 +1,5 @@
+---- swSccChgChk Matches (4 in 2 files) ----
+Gridjob.c (E:\Code\IVPM15048\12K\07_F2837xS_IVPMP1G2_APP\Source\TASK) line 136 : extern void swSccChgChk(void);
+sGridTask in Gridjob.c (E:\Code\IVPM15048\12K\07_F2837xS_IVPMP1G2_APP\Source\TASK) :                 swSccChgChk();
+SuperJob.c (E:\Code\IVPM15048\12K\07_F2837xS_IVPMP1G2_APP\Source\TASK) line 413 : void swSccChgChk(void);
+SuperJob.c (E:\Code\IVPM15048\12K\07_F2837xS_IVPMP1G2_APP\Source\TASK) line 3582 : void swSccChgChk(void)      // SCC PWM

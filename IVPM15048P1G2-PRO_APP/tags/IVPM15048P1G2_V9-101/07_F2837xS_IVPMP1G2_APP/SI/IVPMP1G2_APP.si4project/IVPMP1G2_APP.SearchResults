@@ -1,0 +1,4 @@
+---- HoParaTx Matches (3 in 2 files) ----
+INVInterrupt in Interrupts.c (E:\Code\IVPM15048\10K\07_F2837xS_IVPMP1G2_APP\Source\APP) :                 if((HoParaTx ==1)&&(mEepromOutputMode() > cOP_Single))
+INVInterrupt in Interrupts.c (E:\Code\IVPM15048\10K\07_F2837xS_IVPMP1G2_APP\Source\APP) :     if(HoParaTx==0)
+io.h (E:\Code\IVPM15048\10K\07_F2837xS_IVPMP1G2_APP\Source\CPU) line 97 : #define HoParaTx        GpioDataRegs.GPBDAT.bit.GPIO49
