@@ -1,0 +1,13 @@
+----------------------------  IVEM8048.pjt - Debug  ----------------------------
+[InvLoadOP.C] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -g -q -s -as -fr"Z:/CCS_Code/IVEM8048 for trial-production/IVEM8048_28335_V2110_20240417/IVEM8048_V2110/Debug" -fs"Z:/CCS_Code/IVEM8048 for trial-production/IVEM8048_28335_V2110_20240417/IVEM8048_V2110/ASM" -i"Z:/CCS_Code/IVEM8048 for trial-production/IVEM8048_28335_V2110_20240417/IVEM8048_V2110/" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"../Debug.lkf" "InvLoadOP.C"
+
+[ModBus.c] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -g -q -s -as -fr"Z:/CCS_Code/IVEM8048 for trial-production/IVEM8048_28335_V2110_20240417/IVEM8048_V2110/Debug" -fs"Z:/CCS_Code/IVEM8048 for trial-production/IVEM8048_28335_V2110_20240417/IVEM8048_V2110/ASM" -i"Z:/CCS_Code/IVEM8048 for trial-production/IVEM8048_28335_V2110_20240417/IVEM8048_V2110/" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"../Debug.lkf" "ModBus.c"
+
+[Supervisor.c] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -g -q -s -as -fr"Z:/CCS_Code/IVEM8048 for trial-production/IVEM8048_28335_V2110_20240417/IVEM8048_V2110/Debug" -fs"Z:/CCS_Code/IVEM8048 for trial-production/IVEM8048_28335_V2110_20240417/IVEM8048_V2110/ASM" -i"Z:/CCS_Code/IVEM8048 for trial-production/IVEM8048_28335_V2110_20240417/IVEM8048_V2110/" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"../Debug.lkf" "Supervisor.c"
+
+[Linking...] "C:\CCStudio_v3.3PLA\C2000\cgtools\bin\cl2000" -@"Debug.lkf"
+<Linking>
+warning: entry-point symbol other than "_c_int00" specified:  "code_start"
+
+Build Complete,
+  0 Errors, 1 Warnings, 0 Remarks.
