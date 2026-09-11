@@ -1,0 +1,5 @@
+---- subGetParaBatUnderSts Matches (4 in 3 files) ----
+BatteryModule.c (MODULE\BatteryModule) line 1243 : INT8U	subGetParaBatUnderSts(void)
+BatteryModule.h (MODULE\BatteryModule) line 91 : BATTERY_MODULE INT8U	subGetParaBatUnderSts(void);
+sLineMode in SupervisorJob.c (TASK) : 			//if(subGetParaBatUnderSts())
+sBatteryMode in SupervisorJob.c (TASK) : 				//if(subGetParaBatUnderSts())

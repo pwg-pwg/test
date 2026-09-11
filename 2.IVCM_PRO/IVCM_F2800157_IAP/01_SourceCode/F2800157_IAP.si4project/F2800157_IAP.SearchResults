@@ -1,0 +1,29 @@
+---- PieCtrlRegs.PIEACK.all = PIEACK_GROUP1 Matches (23 in 2 files) ----
+ADCA1_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP1;
+ADCC1_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP1;
+XINT1_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP1;
+XINT2_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP1;
+SYS_ERR_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP1;
+TIMER0_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP1;
+WAKE_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP1;
+ADCA_EVT_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP10;
+ADCA2_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP10;
+ADCA3_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP10;
+ADCA4_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP10;
+ADCC_EVT_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP10;
+ADCC2_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP10;
+ADCC3_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP10;
+ADCC4_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP10;
+XINT3_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP12;
+XINT4_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP12;
+XINT5_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP12;
+FLSS_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP12;
+VCU_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP12;
+MCANA_WAKE_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP12;
+MCANA_ECC_ISR in f280015x_defaultisr.c (CPU) :     // PieCtrlRegs.PIEACK.all = PIEACK_GROUP12;
+isrOSTimeBase in interrupt.c (APP) :     PieCtrlRegs.PIEACK.all = PIEACK_GROUP1;	
+---- PieCtrlRegs.PIEACK.all = PIEACK_GROUP1 Search Errors Encountered (3) ----
+The following 3 files could not be processed:
+C:\PWG_Project\Project\1.ICVM\F2800157_IAP\01_SourceCode\DRIVER\Sci\sci_config.h : File could not be opened.
+C:\PWG_Project\Project\1.ICVM\F2800157_IAP\01_SourceCode\DRIVER\Sci\sci_driver.c : File could not be opened.
+C:\PWG_Project\Project\1.ICVM\F2800157_IAP\01_SourceCode\DRIVER\Sci\sci_driver.h : File could not be opened.

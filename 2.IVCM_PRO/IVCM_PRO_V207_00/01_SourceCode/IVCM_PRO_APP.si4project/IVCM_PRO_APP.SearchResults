@@ -1,0 +1,4 @@
+---- Dnlimit Matches (3 in 2 files) ----
+sBatSOCCheck in BatteryModule.c (MODULE\BatteryModule) : 	Dnlimit(s_wBatChgRecoverSOC  ,0);
+sBatSOCCheck in BatteryModule.c (MODULE\BatteryModule) : 	Dnlimit(s_wGridChgRecoverSOC ,0);
+SupervisorJob.h (TASK\Include) line 106 : #define Dnlimit(x,low)            (x = x < (low) ? (low) : x)
