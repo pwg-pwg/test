@@ -1,0 +1,65 @@
+# FIXED
+
+APP/display_driver.obj: ../APP/display_driver.c
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/registers.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Adc.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_BootVars.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Cla.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Comp.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_CpuTimers.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_DevEmu.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Dma.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_ECan.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_ECap.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_EPwm.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_EQep.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Gpio.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_HRCap.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_I2c.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Mcbsp.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_NmiIntrupt.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_PieCtrl.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_PieVect.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Spi.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Sci.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_SysCtrl.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Usb.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_XIntrupt.h
+APP/display_driver.obj: ../APP/display_driver.h
+APP/display_driver.obj: ../APP/display_config.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/KERNEL/ports/OS_CPU.h
+APP/display_driver.obj: ../APP/display_hard_ports.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/Io.h
+APP/display_driver.obj: C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/app/Constant.h
+
+../APP/display_driver.c: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/registers.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Adc.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_BootVars.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Cla.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Comp.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_CpuTimers.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_DevEmu.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Dma.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_ECan.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_ECap.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_EPwm.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_EQep.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Gpio.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_HRCap.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_I2c.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Mcbsp.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_NmiIntrupt.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_PieCtrl.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_PieVect.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Spi.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Sci.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_SysCtrl.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_Usb.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/F2806x_XIntrupt.h: 
+../APP/display_driver.h: 
+../APP/display_config.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/KERNEL/ports/OS_CPU.h: 
+../APP/display_hard_ports.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/cpu/Io.h: 
+C:/Users/80783/Desktop/IVEM/8KW/IVEM5048LV_28066_V13.01/IVEM_LV_5048/app/Constant.h: 

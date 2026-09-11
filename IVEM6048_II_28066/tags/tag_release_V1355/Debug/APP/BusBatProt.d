@@ -1,0 +1,103 @@
+# FIXED
+
+APP/BusBatProt.obj: ../APP/BusBatProt.C
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/Kernel/Kernel.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/kernel/ports/OS_CPU.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/kernel/ports/os_config.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/app/app.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/registers.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Adc.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_BootVars.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Cla.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Comp.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_CpuTimers.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_DevEmu.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Dma.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_ECan.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_ECap.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_EPwm.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_EQep.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Gpio.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_HRCap.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_I2c.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Mcbsp.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_NmiIntrupt.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_PieCtrl.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_PieVect.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Spi.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Sci.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_SysCtrl.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Usb.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_XIntrupt.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/Io.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/app/Constant.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/module.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/batteryModule/batterymodule.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/busmodule/busmodule.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/invertermodule/invertermodule.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/linemodule/linemodule.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/outputmodule/outputmodule.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/protectionmodule/protectionmodule.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/library/library.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/PVModule/PVModule.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/app/EEprom.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/driver/eeprom/EepromDriver.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/Controller/Controller.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/lib/IQmathLib.h
+APP/BusBatProt.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_6.1.0/include/limits.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/app/interrupt.h
+APP/BusBatProt.obj: ../APP/Interface_BMS.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/app/Modbus.h
+APP/BusBatProt.obj: C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/kernel/ports/OS_CPU.h
+APP/BusBatProt.obj: ../APP/EnergySaved.h
+
+../APP/BusBatProt.C: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/Kernel/Kernel.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/kernel/ports/OS_CPU.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/kernel/ports/os_config.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/app/app.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/registers.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Adc.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_BootVars.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Cla.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Comp.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_CpuTimers.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_DevEmu.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Dma.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_ECan.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_ECap.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_EPwm.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_EQep.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Gpio.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_HRCap.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_I2c.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Mcbsp.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_NmiIntrupt.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_PieCtrl.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_PieVect.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Spi.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Sci.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_SysCtrl.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_Usb.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/F2806x_XIntrupt.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/cpu/Io.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/app/Constant.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/module.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/batteryModule/batterymodule.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/busmodule/busmodule.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/invertermodule/invertermodule.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/linemodule/linemodule.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/outputmodule/outputmodule.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/protectionmodule/protectionmodule.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/library/library.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/PVModule/PVModule.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/app/EEprom.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/driver/eeprom/EepromDriver.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/module/Controller/Controller.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/lib/IQmathLib.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_6.1.0/include/limits.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/app/interrupt.h: 
+../APP/Interface_BMS.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/app/Modbus.h: 
+C:/Users/95490/Desktop/File/Code/IVEM6048\ II/IVEM6048_28066\ II\ 20250611_1355/IVEM6048/kernel/ports/OS_CPU.h: 
+../APP/EnergySaved.h: 

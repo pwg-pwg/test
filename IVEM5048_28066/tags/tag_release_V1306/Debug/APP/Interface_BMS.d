@@ -1,0 +1,73 @@
+# FIXED
+
+APP/Interface_BMS.obj: ../APP/Interface_BMS.C
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/Kernel/Kernel.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/kernel/ports/OS_CPU.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/kernel/ports/os_config.h
+APP/Interface_BMS.obj: ../APP/ModBus.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/kernel/ports/OS_CPU.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/interrupt.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/registers.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Adc.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_BootVars.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Cla.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Comp.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_CpuTimers.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_DevEmu.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Dma.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_ECan.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_ECap.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_EPwm.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_EQep.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Gpio.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_HRCap.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_I2c.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Mcbsp.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_NmiIntrupt.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_PieCtrl.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_PieVect.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Spi.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Sci.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_SysCtrl.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Usb.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_XIntrupt.h
+APP/Interface_BMS.obj: ../APP/Interface_BMS.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/Constant.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/eeprom.h
+APP/Interface_BMS.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/driver/eeprom/EepromDriver.h
+
+../APP/Interface_BMS.C: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/Kernel/Kernel.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/kernel/ports/OS_CPU.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/kernel/ports/os_config.h: 
+../APP/ModBus.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/kernel/ports/OS_CPU.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/interrupt.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/registers.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Adc.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_BootVars.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Cla.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Comp.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_CpuTimers.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_DevEmu.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Dma.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_ECan.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_ECap.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_EPwm.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_EQep.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Gpio.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_HRCap.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_I2c.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Mcbsp.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_NmiIntrupt.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_PieCtrl.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_PieVect.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Spi.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Sci.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_SysCtrl.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Usb.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_XIntrupt.h: 
+../APP/Interface_BMS.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/Constant.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/eeprom.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/driver/eeprom/EepromDriver.h: 

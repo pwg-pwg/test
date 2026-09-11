@@ -1,0 +1,18 @@
+---- g_wBatVoltRef Matches (17 in 6 files) ----
+BatteryModule.C (MODULE\BatteryModule) line 75 : extern INT16S g_wBatVoltRef;
+sBatOverChgChk in BatteryModule.C (MODULE\BatteryModule) : 		if(sbUnderLevelChk(g_uwBatVoltAvg, g_wBatVoltRef, uwFilter, &s_uwBatOverChgChkCnt))
+sBatOverChgChk in BatteryModule.C (MODULE\BatteryModule) : 		if(sbOverLevelChk(g_uwBatVoltAvg, (g_wBatVoltRef + cBatVoltReal0V5), uwFilter, &s_uwBatOverChgChkCnt))
+BusBatProt.C (APP) line 180 : extern INT16S g_wBatVoltRef;
+sBatteryStageCntl in BusBatProt.C (APP) : 	if(wBatVoltRefTemp != g_wBatVoltRef)
+sBatteryStageCntl in BusBatProt.C (APP) : 		g_wBatVoltRef = wBatVoltRefTemp;
+sBatProtChgMode in BusBatProt.C (APP) : 	if(!g_uwLiBatActing && (g_uwBatVoltAvg >= (g_wBatVoltRef + (cBatVoltReal0V1*cBatSerialPcs)) || g_wBatRealVoltOverFlg))
+Interface.C (APP) line 165 : extern INT16S g_wBatVoltRef;
+Interface.C (APP) line 171 : extern INT16S g_wBatVoltRef;
+sQ1Command in Interface.C (APP) : 	sNumToASCII((INT16U)g_wBatVoltRef, 4, 0, &g_ubUserDataBuf0[sciid][wSciLength]);
+Interrupt.c (APP) line 331 : extern INT16S g_wBatVoltRef;
+MPPTInterrupt in Interrupt.c (APP) : 	   || gi_wBatVoltReal > (g_wBatVoltRef + (cBatVoltReal1V * cBatSerialPcs)) )
+sDCDCControl in InvCntModule.C (MODULE\InverterCntl) : 			g_wBatVoltErr = g_wBatVoltAvg - g_wBatVoltRef;//电池参考电压建议软起
+InvLoadOP.C (APP) line 28 : extern INT16S g_wBatVoltRef;
+sControllerRefUpdate in InvLoadOP.C (APP) : 	if(uwStandardRefVolt > g_wBatVoltRef)
+sControllerRefUpdate in InvLoadOP.C (APP) : 		uwStandardRefVolt = g_wBatVoltRef;
+sControllerRefUpdate in InvLoadOP.C (APP) : 		uwStandardRefVolt = g_wBatVoltRef;

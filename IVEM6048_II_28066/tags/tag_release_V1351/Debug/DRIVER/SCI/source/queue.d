@@ -1,0 +1,13 @@
+# FIXED
+
+DRIVER/SCI/source/queue.obj: ../DRIVER/SCI/source/queue.c
+DRIVER/SCI/source/queue.obj: D:/CCS_Code/IVEM6048\ II/ALL/IVEM6048_28066\ II\ 20250224_T0221/IVEM6048/Kernel/source/OS_HEAD.h
+DRIVER/SCI/source/queue.obj: D:/CCS_Code/IVEM6048\ II/ALL/IVEM6048_28066\ II\ 20250224_T0221/IVEM6048/kernel/ports/OS_CPU.h
+DRIVER/SCI/source/queue.obj: D:/CCS_Code/IVEM6048\ II/ALL/IVEM6048_28066\ II\ 20250224_T0221/IVEM6048/kernel/ports/os_config.h
+DRIVER/SCI/source/queue.obj: ../DRIVER/SCI/source/queue.h
+
+../DRIVER/SCI/source/queue.c: 
+D:/CCS_Code/IVEM6048\ II/ALL/IVEM6048_28066\ II\ 20250224_T0221/IVEM6048/Kernel/source/OS_HEAD.h: 
+D:/CCS_Code/IVEM6048\ II/ALL/IVEM6048_28066\ II\ 20250224_T0221/IVEM6048/kernel/ports/OS_CPU.h: 
+D:/CCS_Code/IVEM6048\ II/ALL/IVEM6048_28066\ II\ 20250224_T0221/IVEM6048/kernel/ports/os_config.h: 
+../DRIVER/SCI/source/queue.h: 

@@ -1,0 +1,16 @@
+---- g_uwLineVoltLLoss Matches (15 in 5 files) ----
+BusBatProt.asm (debug):$C$DW$146	.dwtag  DW_TAG_variable, DW_AT_name("g_uwLineVoltLLoss")
+BusBatProt.asm (debug):;** 1032	-----------------------    wOPVoltMinTmep = g_uwLineVoltLLoss;
+BusBatProt.C (app):extern INT16U g_uwLineVoltLLoss;
+BusBatProt.C (app):			wOPVoltMinTmep = g_uwLineVoltLLoss;
+InvLoadOP.asm (debug):$C$DW$114	.dwtag  DW_TAG_variable, DW_AT_name("g_uwLineVoltLLoss")
+InvLoadOP.asm (debug):;** 1346	-----------------------    if ( swGetEEACRange() != 1 || (unsigned)g_wOPVoltCntl >= g_uwLineVoltLLoss ) goto g20;
+InvLoadOP.asm (debug):;** 1348	-----------------------    g_wOPVoltCntl = g_uwLineVoltLLoss;
+InvLoadOP.C (app):extern INT16U g_uwLineVoltLLoss;
+InvLoadOP.C (app):				else if((swGetEEACRange() == 1) && (g_wOPVoltCntl < g_uwLineVoltLLoss))//UPS
+InvLoadOP.C (app):					g_wOPVoltCntl = g_uwLineVoltLLoss;
+LineModule.asm (debug):$C$DW$68	.dwtag  DW_TAG_variable, DW_AT_name("g_uwLineVoltLLoss")
+LineModule.asm (debug):;*** 414	-----------------------    if ( sbOutRangeChk(g_uwTLineVolt, g_uwLineVoltHLoss, g_uwLineVoltLLoss, bFilter, &s_ubTFeedLineVChkCnt) != 1u ) goto g6;
+LineModule.asm (debug):;*** 364	-----------------------    if ( sbOutRangeChk(g_uwSLineVolt, g_uwLineVoltHLoss, g_uwLineVoltLLoss, bFilter, &s_ubSFeedLineVChkCnt) != 1u ) goto g6;
+LineModule.asm (debug):;*** 315	-----------------------    if ( sbOutRangeChk(g_uwRLineVolt, g_uwLineVoltHLoss, g_uwLineVoltLLoss, bFilter, &s_ubRFeedLineVChkCnt) != 1u ) goto g6;
+LineModule.asm (debug):;*** 92	-----------------------    g_uwLineVoltLLoss = 900u;

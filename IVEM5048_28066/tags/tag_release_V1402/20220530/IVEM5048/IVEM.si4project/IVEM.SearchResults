@@ -1,0 +1,31 @@
+---- sEventSetIoExpanderCode Matches (5 in 2 files) ----
+Interface.C (APP) line 2413 : 
+
+void sEventSetIoExpanderCode(INT16U wIoExpanderBit)
+{
+	if((swGetIoExpanderCode() & wIoExpanderBit) != wIoExpanderBit)
+	{
+io.h (CPU) line 5 : 
+extern INT16U g_uw3525On;
+extern void sEventSetIoExpanderCode(INT16U wIoExpanderBit);
+extern void sEventClrIoExpanderCode(INT16U wIoExpanderBit);
+
+//#define mStartADConvert() 		AdcRegs.ADCTRL2.bit.SOC_SEQ1=1
+io.h (CPU) line 44 : 
+#define hoLED4ON     		asm(" NOP ")//GpioDataRegs.GPADAT.bit.GPIO13
+#define hoLED4ONOn 			sEventSetIoExpanderCode(cIO28066LED)//GpioDataRegs.GPASET.bit.GPIO13 = 1
+#define hoLED4ONOff 		sEventClrIoExpanderCode(cIO28066LED)//GpioDataRegs.GPACLEAR.bit.GPIO13 = 1
+
+#define hoLED5ON     		asm(" NOP ")//GpioDataRegs.GPADAT.bit.GPIO14
+io.h (CPU) line 66 : 
+#define hoSPSSD     		asm(" NOP ")//GpioDataRegs.GPADAT.bit.GPIO31
+#define hoSPSSDOn 			sEventSetIoExpanderCode(cIOSPSSD)//GpioDataRegs.GPASET.bit.GPIO31 = 1
+#define hoSPSSDOff 			sEventClrIoExpanderCode(cIOSPSSD)//GpioDataRegs.GPACLEAR.bit.GPIO31 = 1
+
+#define hiFANCLK1     		GpioDataRegs.GPADAT.bit.GPIO20
+io.h (CPU) line 84 : 
+#define hoBATON     		asm(" NOP ")//GpioDataRegs.GPBDAT.bit.GPIO40
+#define hoBATONOn 			sEventSetIoExpanderCode(cIOBatOn)//GpioDataRegs.GPBSET.bit.GPIO40 = 1
+#define hoBATONOff 			sEventClrIoExpanderCode(cIOBatOn)//GpioDataRegs.GPBCLEAR.bit.GPIO40 = 1
+
+#define hoGRIDSCR     		GpioDataRegs.GPBDAT.bit.GPIO51

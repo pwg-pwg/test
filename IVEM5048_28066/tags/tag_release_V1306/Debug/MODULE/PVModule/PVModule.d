@@ -1,0 +1,87 @@
+# FIXED
+
+MODULE/PVModule/PVModule.obj: ../MODULE/PVModule/PVModule.C
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/Kernel/Kernel.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/kernel/ports/OS_CPU.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/kernel/ports/os_config.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/module.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/batteryModule/batterymodule.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/busmodule/busmodule.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/invertermodule/invertermodule.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/linemodule/linemodule.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/outputmodule/outputmodule.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/protectionmodule/protectionmodule.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/library/library.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/PVModule/PVModule.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/EEprom.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/driver/eeprom/EepromDriver.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/constant.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/interrupt.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/registers.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Adc.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_BootVars.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Cla.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Comp.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_CpuTimers.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_DevEmu.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Dma.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_ECan.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_ECap.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_EPwm.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_EQep.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Gpio.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_HRCap.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_I2c.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Mcbsp.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_NmiIntrupt.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_PieCtrl.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_PieVect.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Spi.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Sci.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_SysCtrl.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Usb.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_XIntrupt.h
+MODULE/PVModule/PVModule.obj: D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/app.h
+
+../MODULE/PVModule/PVModule.C: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/Kernel/Kernel.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/kernel/ports/OS_CPU.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/kernel/ports/os_config.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/module.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/batteryModule/batterymodule.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/busmodule/busmodule.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/invertermodule/invertermodule.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/linemodule/linemodule.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/outputmodule/outputmodule.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/protectionmodule/protectionmodule.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/library/library.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/module/PVModule/PVModule.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/EEprom.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/driver/eeprom/EepromDriver.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/constant.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/interrupt.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/registers.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Adc.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_BootVars.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Cla.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Comp.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_CpuTimers.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_DevEmu.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Dma.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_ECan.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_ECap.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_EPwm.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_EQep.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Gpio.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_HRCap.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_I2c.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Mcbsp.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_NmiIntrupt.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_PieCtrl.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_PieVect.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Spi.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Sci.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_SysCtrl.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_Usb.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/cpu/F2806x_XIntrupt.h: 
+D:/CCS_Code/Battery\ Fast\ Low/20230904\ AddFunction/IVEM5048_28066_V13.06/IVEM5048/app/app.h: 
