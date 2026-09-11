@@ -1,0 +1,90 @@
+# FIXED
+
+DSP_source/DSP2833x_ECan.obj: ../DSP_source/DSP2833x_ECan.c
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Device.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Adc.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_DevEmu.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_CpuTimers.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_ECan.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_ECap.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_DMA.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_EPwm.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_EQep.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Gpio.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_I2c.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_McBSP.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_PieCtrl.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_PieVect.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Spi.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Sci.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_SysCtrl.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_XIntrupt.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Xintf.h
+DSP_source/DSP2833x_ECan.obj: D:/Ti/ccs1250/ccs/tools/compiler/c2000_6.1.3.LTS/include/math.h
+DSP_source/DSP2833x_ECan.obj: D:/Ti/ccs1250/ccs/tools/compiler/c2000_6.1.3.LTS/include/linkage.h
+DSP_source/DSP2833x_ECan.obj: D:/Ti/ccs1250/ccs/tools/compiler/c2000_6.1.3.LTS/include/float.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Examples.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_GlobalPrototypes.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_ePwm_defines.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Dma_defines.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_I2C_defines.h
+DSP_source/DSP2833x_ECan.obj: D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_DefaultISR.h
+
+../DSP_source/DSP2833x_ECan.c:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Device.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Adc.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_DevEmu.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_CpuTimers.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_ECan.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_ECap.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_DMA.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_EPwm.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_EQep.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Gpio.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_I2c.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_McBSP.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_PieCtrl.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_PieVect.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Spi.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Sci.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_SysCtrl.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_XIntrupt.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Xintf.h:
+
+D:/Ti/ccs1250/ccs/tools/compiler/c2000_6.1.3.LTS/include/math.h:
+
+D:/Ti/ccs1250/ccs/tools/compiler/c2000_6.1.3.LTS/include/linkage.h:
+
+D:/Ti/ccs1250/ccs/tools/compiler/c2000_6.1.3.LTS/include/float.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Examples.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_GlobalPrototypes.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_ePwm_defines.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_Dma_defines.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_I2C_defines.h:
+
+D:/CCS_Code/IVAM8048/6\ Formal\ Version/IVAM8048M_20260325/IVAM8048M/DSP_include/DSP2833x_DefaultISR.h:
+
