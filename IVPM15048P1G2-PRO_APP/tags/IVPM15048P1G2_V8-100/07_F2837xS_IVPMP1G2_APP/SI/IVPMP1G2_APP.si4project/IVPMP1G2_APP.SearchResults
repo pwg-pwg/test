@@ -1,5 +1,0 @@
----- sSetGridInputChargeEn Matches (4 in 2 files) ----
-sGridPortWorkModeUpdate in Gridjob.c (E:\Code\IVPM15048\10K\07_F2837xS_IVPMP1G2_APP\Source\TASK) : 			sSetGridInputChargeEn(1);//允许充电
-sGridPortWorkModeUpdate in Gridjob.c (E:\Code\IVPM15048\10K\07_F2837xS_IVPMP1G2_APP\Source\TASK) : 			sSetGridInputChargeEn(0);//停止充电
-Gridjob.c (E:\Code\IVPM15048\10K\07_F2837xS_IVPMP1G2_APP\Source\TASK) line 1397 : void sSetGridInputChargeEn(INT16U bValue)
-GridJob.h (E:\Code\IVPM15048\10K\07_F2837xS_IVPMP1G2_APP\Source\TASK\Include) line 106 : GRIDJOB void sSetGridInputChargeEn(INT16U bValue);

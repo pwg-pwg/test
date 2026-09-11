@@ -1,0 +1,17 @@
+# FIXED
+
+APP/Eeprom.obj: ../APP/Eeprom.c
+APP/Eeprom.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/kernel.h
+APP/Eeprom.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/ports/OS_CPU.h
+APP/Eeprom.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/ports/os_config.h
+APP/Eeprom.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/app.h
+APP/Eeprom.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/constant.h
+APP/Eeprom.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/eeprom.h
+
+../APP/Eeprom.c: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/kernel.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/ports/OS_CPU.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/ports/os_config.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/app.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/constant.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/eeprom.h: 

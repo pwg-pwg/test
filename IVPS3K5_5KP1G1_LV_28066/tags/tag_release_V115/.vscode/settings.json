@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "OS_EVENT.C": "cpp",
+        "InvLoadOP.C": "cpp",
+        "Interface.C": "cpp"
+    }
+}

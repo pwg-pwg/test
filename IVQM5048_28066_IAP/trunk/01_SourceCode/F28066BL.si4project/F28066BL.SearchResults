@@ -1,0 +1,13 @@
+---- PRG_key0 Matches (2 in 2 files) ----
+Example_CsmUnlock in Example_Flash2806x_API.c : 
+    EALLOW;
+    CsmRegs.KEY0 = PRG_key0;
+    CsmRegs.KEY1 = PRG_key1;
+    CsmRegs.KEY2 = PRG_key2;
+    CsmRegs.KEY3 = PRG_key3;
+Example_Flash2806x_API.h line 116 : 
+ --------------------------------------------------------------------------*/
+extern Uint16 PRG_key0;        //   CSM Key values
+extern Uint16 PRG_key1;
+extern Uint16 PRG_key2;
+extern Uint16 PRG_key3;

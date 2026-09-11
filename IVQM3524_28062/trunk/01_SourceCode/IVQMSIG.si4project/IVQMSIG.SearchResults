@@ -1,0 +1,12 @@
+---- FactoryMode Matches (11 in 3 files) ----
+{anonDfPanleJob} in display.h (APP) : 	INT16U	FactoryMode:1;
+sKeyScan in DisplayBuzz.c (APP) : 				else if(fPanleJob.FactoryMode ==1) 
+sDisplay in display_vp.c (APP) : 	else if(fPanleJob.FactoryMode ==1)
+sDisplay in display_vp.c (APP) : 			if(fPanleJob.FactoryMode == 1 )
+sDisplay in display_vp.c (APP) : 				fPanleJob.FactoryMode =0;
+sFactoryModeDisplay in display_vp.c (APP) :   if(fPanleJob.FactoryMode == 1) 
+sProcFactoryMode in display_vp.c (APP) : 	if(fPanleJob.FactoryMode ==1) 
+sProcFactoryMode in display_vp.c (APP) : 				fPanleJob.FactoryMode = 0;
+sProcFactoryMode in display_vp.c (APP) : 					fPanleJob.FactoryMode = 0;
+sProcFactoryMode in display_vp.c (APP) : 							fPanleJob.FactoryMode = 0;
+sSetFactoryConfigMode in display_vp.c (APP) : 	fPanleJob.FactoryMode = 1;

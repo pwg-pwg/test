@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "BusBatProt.C": "cpp",
+        "Interface_BMS.C": "cpp",
+        "Interface.C": "cpp"
+    }
+}

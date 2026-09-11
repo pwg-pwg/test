@@ -1,0 +1,7 @@
+---- cInvVoltBias Matches (6 in 4 files) ----
+sProcFactoryMode in display_vp.c (APP) : 								gi_wInvVoltBias = cInvVoltBias + wInvVoltBiasVaue;
+sProcFactoryMode in display_vp.c (APP) : 								gi_wInvVoltBias = cInvVoltBias + wInvVoltBiasVaue;
+sSciTask in Interface.C (APP) : 	gi_wInvVoltBias = cInvVoltBias+swGetInvVoltBias();//
+sIIACommand in Interface.C (APP) : 		gi_wInvVoltBias = cInvVoltBias+swGetInvVoltBias();//gi_wInvVoltBias + wTemp;
+interrupt.h (APP) line 72 : #define cInvVoltBias							60//150
+InvCntModule.C (MODULE\InverterCntl) line 24 : INT16S gi_wInvVoltBias = cInvVoltBias;

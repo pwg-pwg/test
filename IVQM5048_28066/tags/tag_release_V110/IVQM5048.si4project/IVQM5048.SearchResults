@@ -1,0 +1,24 @@
+---- wRSinpointer Matches (17 in 2 files) ----
+Interrupt.c (APP) line 214 : INT16S wRSinPointer;
+INVInterrupt in Interrupt.c (APP) : //	if(++wRSinPointer >= wRCountsPerPeriod)        //wRCountsPerPeriod=384,50Hz
+INVInterrupt in Interrupt.c (APP) : //		wRSinPointer = 0;
+INVInterrupt in Interrupt.c (APP) : //	wRSinPointer = gi_wPLLPointer;
+INVInterrupt in Interrupt.c (APP) : 		//wCtrlSinpointer = wRSinPointer + wRCountsHalfPeriodTest;
+INVInterrupt in Interrupt.c (APP) : 	wRSinPointer = wCtrlSinpointer;
+MPPTInterrupt in Interrupt.c (APP) : 		if((wLineWaveChkCnt >5)&&((wRSinPointer == 0) || (wRSinPointer == 1)\
+MPPTInterrupt in Interrupt.c (APP) : 			|| (wRSinPointer == wInvVoltSampleCnt1) || (wRSinPointer == (wInvVoltSampleCnt1+1))\
+MPPTInterrupt in Interrupt.c (APP) : 			|| (wRSinPointer == wRCountsHalfPeriod) || (wRSinPointer == (wRCountsHalfPeriod+1))\
+MPPTInterrupt in Interrupt.c (APP) : 			|| (wRSinPointer == wInvVoltSampleCnt3Div4) || (wRSinPointer == (wInvVoltSampleCnt3Div4+1))))
+swGetRSinPointer in Interrupt.c (APP) : 	return(wRSinPointer);	
+swGetSineTableVaule in Interrupt.c (APP) : 	return(pSinTab[wRSinPointer]);
+InvCntModule.C (MODULE\InverterCntl) line 195 : extern INT16S wRSinPointer;
+---- wRSinpointer Search Errors Encountered (8) ----
+The following 8 files could not be processed:
+F:\IVQM\IVQM5048\FLS-GPINV-IVQM\FLS-GPINV-IVQM\Debug\DSP280x_DefaultIsr.asm : File could not be opened.
+F:\IVQM\IVQM5048\FLS-GPINV-IVQM\FLS-GPINV-IVQM\Debug\DSP280x_GlobalVariableDefs.asm : File could not be opened.
+F:\IVQM\IVQM5048\FLS-GPINV-IVQM\FLS-GPINV-IVQM\Debug\makefile : File could not be opened.
+F:\IVQM\IVQM5048\FLS-GPINV-IVQM\FLS-GPINV-IVQM\Debug\OS_CORE.asm : File could not be opened.
+F:\IVQM\IVQM5048\FLS-GPINV-IVQM\FLS-GPINV-IVQM\Debug\OS_CPU.asm : File could not be opened.
+F:\IVQM\IVQM5048\FLS-GPINV-IVQM\FLS-GPINV-IVQM\Debug\OS_EVENT.asm : File could not be opened.
+F:\IVQM\IVQM5048\FLS-GPINV-IVQM\FLS-GPINV-IVQM\Debug\OS_SHELL.asm : File could not be opened.
+F:\IVQM\IVQM5048\FLS-GPINV-IVQM\FLS-GPINV-IVQM\Debug\OS_TIMER.asm : File could not be opened.

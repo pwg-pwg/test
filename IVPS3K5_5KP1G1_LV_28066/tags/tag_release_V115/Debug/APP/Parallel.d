@@ -1,0 +1,113 @@
+# FIXED
+
+APP/Parallel.obj: ../APP/Parallel.c
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/kernel.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/ports/OS_CPU.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/ports/os_config.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/constant.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/module.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/batteryModule/batterymodule.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/busmodule/busmodule.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/invertermodule/invertermodule.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/linemodule/linemodule.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/loadmodule/loadmodule.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/protectionmodule/protectionmodule.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/InverterCntl/Inverter.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/InverterCntl/invcnts.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/library/library.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/ChgModule/ChgModule.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/interrupt.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/app.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/registers.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Adc.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_BootVars.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Cla.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Comp.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_CpuTimers.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_DevEmu.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Dma.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_ECan.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_ECap.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_EPwm.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_EQep.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Gpio.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_HRCap.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_I2c.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Mcbsp.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_NmiIntrupt.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_PieCtrl.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_PieVect.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Spi.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Sci.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_SysCtrl.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Usb.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_XIntrupt.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/io.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/Eeprom.h
+APP/Parallel.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.1.0/include/stdlib.h
+APP/Parallel.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.1.0/include/linkage.h
+APP/Parallel.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.1.0/include/stdlibf.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/driver/driver.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/driver/RlyDriver/RlyDriver.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/ports/OS_CPU.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/driver/sci/scidriver.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/driver/sci/ports/sciconfig.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/driver/can/candriver.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/Driver/Can/ports/Canconfig.h
+APP/Parallel.obj: D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/MODULE/BMS/Interface_BMS.h
+
+../APP/Parallel.c: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/kernel.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/ports/OS_CPU.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/ports/os_config.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/constant.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/module.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/batteryModule/batterymodule.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/busmodule/busmodule.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/invertermodule/invertermodule.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/linemodule/linemodule.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/loadmodule/loadmodule.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/protectionmodule/protectionmodule.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/InverterCntl/Inverter.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/InverterCntl/invcnts.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/library/library.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/module/ChgModule/ChgModule.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/interrupt.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/app.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/registers.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Adc.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_BootVars.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Cla.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Comp.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_CpuTimers.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_DevEmu.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Dma.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_ECan.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_ECap.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_EPwm.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_EQep.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Gpio.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_HRCap.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_I2c.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Mcbsp.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_NmiIntrupt.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_PieCtrl.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_PieVect.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Spi.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Sci.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_SysCtrl.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_Usb.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/F2806x_XIntrupt.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/cpu/io.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/app/Eeprom.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.1.0/include/stdlib.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.1.0/include/linkage.h: 
+C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.1.0/include/stdlibf.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/driver/driver.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/driver/RlyDriver/RlyDriver.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/kernel/ports/OS_CPU.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/driver/sci/scidriver.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/driver/sci/ports/sciconfig.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/driver/can/candriver.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/Driver/Can/ports/Canconfig.h: 
+D:/new/BMSFixup/IVPA/IVPA/IVPS3K5_5KP1G1_LV_V115/FLS-GPINV-IVPA/MODULE/BMS/Interface_BMS.h: 

@@ -1,0 +1,5 @@
+---- HardOverCurrInterrupt Matches (4 in 3 files) ----
+app.h (APP) line 148 : extern interrupt void HardOverCurrInterrupt(void);
+sInitialDSP in Initial.c (APP) :  	PieVectTable.ECAP3_INT = &HardOverCurrInterrupt;
+Interrupt.c (APP) line 580 : Name:HardOverCurrInterrupt
+Interrupt.c (APP) line 586 : interrupt void HardOverCurrInterrupt(void)
