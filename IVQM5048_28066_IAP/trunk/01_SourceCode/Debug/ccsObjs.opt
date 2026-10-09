@@ -1,1 +1,0 @@
-"./F2806x_common/source/F2806x_CodeStartBranch.obj" "./F2806x_common/source/F2806x_CSMPasswords.obj" "./Example_Flash2806x_GlobalVariableDefs.obj" "./Example_Flash2806x_CsmKeys.obj" "./Example_Flash2806x_API.obj" -l"libc.a" "../2806x_BootROM_API_TABLE_Symbols.lib" "../Example_Flash28069_API.cmd" "../F2806x_headers/cmd/F2806x_Headers_nonBIOS.cmd" 

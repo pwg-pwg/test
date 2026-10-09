@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "IVCM_P1G2_APP",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "IVCM_P1G2_APP",
+                "resourceId": "/IVCM_P1G2_APP"
+            },
+            "connections": [
+                {
+                    "name": "Texas Instruments XDS2xx USB Debug Probe_0",
+                    "cores": [
+                        {
+                            "name": "C28xx_CPU1",
+                            "debuggerSettings": {
+                                "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues>\n\n  <property id=\"FlashEraseSelection\">\n    <curValue>Necessary Sectors Only (for Program Load)</curValue>\n  </property>\n\n</PropertyValues>\n"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,0 @@
-#define		cCanRxBufSize		10
