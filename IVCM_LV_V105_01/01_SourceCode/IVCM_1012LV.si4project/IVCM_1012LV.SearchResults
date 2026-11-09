@@ -1,0 +1,4 @@
+---- EPwm2Regs.CMPA.bit.CMPA Matches (3 in 3 files) ----
+sInitEPWM in Initial.c (APP) : 	EPwm2Regs.CMPA.bit.CMPA = 0;//0xFFFF;
+interrupt.h (APP) line 19 : #define			mRNInvPWM				EPwm2Regs.CMPA.bit.CMPA
+sSetFBInvCtrlStsIsr in INVControl.c (APP) : 		EPwm2Regs.CMPA.bit.CMPA = 0;//0xFFFF;	 

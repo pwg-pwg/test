@@ -1,9 +1,0 @@
----- 3500 Matches (8 in 3 files) ----
-BatteryModule.c (MODULE\BatteryModule) line 141 : INT16S g_wPv1UnderBackVolt = 3500;	// PV欠压告警恢复值
-sInvParaUpdate in InverterProcess.c (APP) : 		strInvParameterData.Field.uwGridInputWattMax = 3500;					// 市电最大输入功率 3500w
-Main.h (APP) line 484 : #define cBatVoltReal35V     3500
-Main.h (APP) line 516 : #define cBusVoltReal350V        3500
-Main.h (APP) line 622 : #define cDCDC35A            3500
-Main.h (APP) line 635 : #define cInv35A             3500
-Main.h (APP) line 783 : #define cMpptBatCurr35A				3500
-Main.h (APP) line 792 : #define cMpptPVCurr35A				3500
